@@ -1,5 +1,11 @@
 ### Nice to meet you guys!! 👋
 
+I'm Minsoo, currently living in Busan, South Korea.
+
+English Literature in main major, Applied Statistics in double major at Kyung-Sung University
+
+Msc Data Science and Analytics at Cardiff University
+
 
 <h2> My Tools </h2>
 
