@@ -6,6 +6,12 @@ English Literature in main major, Applied Statistics in double major at Kyung-Su
 
 Msc Data Science and Analytics at Cardiff University
 
+Contact here!
+
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+gjwjdjq@gmail.com
+Or
+3382364@naver.com
 
 <h2> My Tools </h2>
 
@@ -15,6 +21,7 @@ Msc Data Science and Analytics at Cardiff University
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
 <h2> Favorites </h2>
 
