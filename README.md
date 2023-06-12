@@ -8,11 +8,6 @@ Msc Data Science and Analytics at Cardiff University
 
 Contact me here.
 
-3382364@naver.com
-
-or
-
-gjwjdjq@gmail.com
 
 
 <h2> My Tools </h2>
