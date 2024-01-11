@@ -7,6 +7,8 @@ English Literature in main major, Applied Statistics in double major at Kyung-Su
 Msc Data Science and Analytics at Cardiff University
 
 
+Contact:
+gjwjdjq@gmail.com
 
 
 
